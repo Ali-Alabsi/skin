@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397710890035",
+    "project_id": "skin-5dc25",
+    "storage_bucket": "skin-5dc25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397710890035:android:e42c26fec8761b85e23f46",
+        "android_client_info": {
+          "package_name": "com.example.skin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2iwtOKnbKE15iWkFuOpC1CXVXV9QgcFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
